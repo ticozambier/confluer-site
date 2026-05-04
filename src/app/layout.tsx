@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Confluer | Holding Corporativa",
-  description: "Holding corporativa voltada à estruturação, governança e desenvolvimento de empresas.",
+  description: "Holding corporativa voltada à estruturação, governança e desenvolvimento de negócios.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
