@@ -9,15 +9,16 @@ export const navItems = [
 
 export const tagline = "Estrutura e governança para o desenvolvimento de empresas";
 
-export const institutionalText = "[COLE AQUI OS TEXTOS QUE CRIAMOS]";
+export const institutionalText =
+  "A Confluer atua na organização societária, na governança e no desenvolvimento contínuo de empresas de tecnologia e serviços digitais, com disciplina de gestão e foco de longo prazo.";
 
 export const groupCompanies = [
   {
     name: "Convergio",
-    description: "Plataforma de transformação digital com foco em eficiência operacional e crescimento sustentável.",
+    description: "Empresa do grupo dedicada à transformação digital com execução orientada por eficiência e padronização.",
   },
   {
     name: "Ambidesk",
-    description: "Operação dedicada a suporte e sustentação de TI para ambientes corporativos críticos.",
+    description: "Operação de suporte e sustentação de TI para ambientes corporativos com alta exigência de continuidade.",
   },
 ];
