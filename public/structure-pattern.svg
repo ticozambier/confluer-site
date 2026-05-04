@@ -1,0 +1,19 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0F1115"/>
+  <g opacity="0.22" stroke="#2A2F3A" stroke-width="1">
+    <path d="M0 140H1440"/>
+    <path d="M0 300H1440"/>
+    <path d="M0 460H1440"/>
+    <path d="M0 620H1440"/>
+    <path d="M0 780H1440"/>
+    <path d="M220 0V900"/>
+    <path d="M480 0V900"/>
+    <path d="M740 0V900"/>
+    <path d="M1000 0V900"/>
+    <path d="M1260 0V900"/>
+  </g>
+  <g opacity="0.18" stroke="#3A6FF7" stroke-width="1.2">
+    <path d="M130 760L520 420L860 580L1250 260"/>
+    <path d="M130 810L520 470L860 630L1250 310"/>
+  </g>
+</svg>
